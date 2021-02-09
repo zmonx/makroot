@@ -1,3 +1,3 @@
-# Swiper_Component
+# Makroot
 SWE60-325 | Software Practice
 <hr>
